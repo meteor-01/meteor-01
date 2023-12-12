@@ -1,6 +1,10 @@
 ### Hi 👋, I'm Li Junlong.
 
 ![Meteor's GitHub stats](https://github-readme-stats.vercel.app/api?username=meteor-01&show_icons=true&theme=radical)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **meteor-01/meteor-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
